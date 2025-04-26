@@ -1,4 +1,4 @@
-## 🏥 Hospital Management System
+## 🏥 HospiManage: A Hospital Management System
 Overview
 This project modernizes hospital operations by replacing traditional, paper-based processes with a secure, efficient digital system. It solves challenges like improper data storage, time-consuming record retrieval, and prescription readability issues, providing a better experience for doctors, receptionists, administrators, and patients.
 
