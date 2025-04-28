@@ -71,4 +71,4 @@ Deploy on Apache Tomcat Server.
 Access via browser and start managing!
 
 # 📜 License
-This project is open-source. Feel free to use and customize it as needed!
+This project is open-source. Feel free to use and customize it as needed!!
